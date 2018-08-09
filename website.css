@@ -1,0 +1,61 @@
+/* website.css */
+
+#earlylifeImage {
+    width: 200px
+    height: 200px}
+#educationImage {
+    width: 200px
+    height: 200px}
+#familyAndPersonalLifeImage {
+    width: 200px
+    height: 200px}
+#interestAndHobbiesImage {
+    width: 200px
+    height: 200px}
+#favoriteThingsImage {
+    width: 200px
+    height: 200px}
+
+    div {
+    border: solid 2px orange;
+    margin: 8px;
+    text-align: center;
+    width: 25%}
+
+body {
+    display: flex:
+    align-content: space-around;
+    text-align: center;}
+
+#title {
+    position: fixed;}
+
+body {
+    align-content: center}
+
+div {
+    background-color: antiquewhite}
+
+#monday {
+    background-color:orange }
+#tuesday {
+    background-color:orange}
+#wednesday {
+    background-color:orange }
+#thursday {
+    background-color:orange }
+#friday {
+    background-color: orange} 
+
+ body {
+        background: linear-gradient(to bottom right, purple, orange ) 100%;
+        background-repeat: no-repeat;
+        height: 100%
+        background-color: 100%
+    }
+
+body {
+    display: flex;
+    align-content: space-around;
+}
+
